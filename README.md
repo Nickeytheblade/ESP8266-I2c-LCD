@@ -1,5 +1,5 @@
 # ESP8266-I2c-LCD
-Door sign for the UPS person. Looking to add WiFi weather updates 
+Door sign for the UPS person. Looking to add WiFi weather updates later on 
 
 https://forum.micropython.org/viewtopic.php?t=2858  -  Fourm I found help on eventually
 
